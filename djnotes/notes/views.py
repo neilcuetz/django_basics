@@ -9,7 +9,7 @@ class Index(View):
   
   def get_context_data(self):
     context = {
-      'notes': Note.objects.order_by('-title'),
+      'notes': Note.objects.order_by('-id'),
     }
     return context
     
