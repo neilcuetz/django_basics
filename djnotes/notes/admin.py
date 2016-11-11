@@ -9,6 +9,7 @@ class NoteAdmin(admin.ModelAdmin):
     'id',
     'title',
     'note',
+    'address',
   )
   search_fields = (
     'title',
