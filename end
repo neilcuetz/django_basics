@@ -1,0 +1,65 @@
+[33mcommit 0e0ce5890d637b668181c527cee73f127a876349[m
+Author: Leoneil <neilcuetz@gmail.com>
+Date:   Fri Nov 11 18:59:17 2016 +0800
+
+    New Commitment
+
+[33mcommit 8ca24718d95ecd0ed3ad8e46401a7a16bd5f15d6[m
+Author: Leoneil <neilcuetz@gmail.com>
+Date:   Fri Nov 11 18:24:39 2016 +0800
+
+    new table column
+
+[33mcommit 8bf3bec32374a6f57d6689124a9b86fb28815587[m
+Author: Leoneil <neilcuetz@gmail.com>
+Date:   Fri Nov 11 17:55:41 2016 +0800
+
+    new table column
+
+[33mcommit 072f93bf9d7222a8b64b3262f0415f4702b90fdf[m
+Author: Leoneil <neilcuetz@gmail.com>
+Date:   Fri Nov 11 16:56:12 2016 +0800
+
+    trial db
+
+[33mcommit e57b188069bc008ddb8b080f16211882e0cab769[m
+Author: Leoneil <neilcuetz@gmail.com>
+Date:   Fri Nov 11 10:55:09 2016 +0800
+
+    add index
+
+[33mcommit d793a4de3a4e03f2bbcffdcec0e1f443808bb83d[m
+Author: Leoneil <neilcuetz@gmail.com>
+Date:   Fri Nov 11 10:38:25 2016 +0800
+
+    new url
+
+[33mcommit 27f32e1ae66999ab4d157df4aca2337121386408[m
+Author: Leoneil <neilcuetz@gmail.com>
+Date:   Thu Nov 10 16:15:19 2016 +0800
+
+    reser commitment
+
+[33mcommit fc454c637e23064f66a63f324d81ebf88fad1895[m
+Author: Leoneil <neilcuetz@gmail.com>
+Date:   Thu Nov 10 16:09:36 2016 +0800
+
+    new length for title text field
+
+[33mcommit b12ab0db66d6aba7a3a446439c762d6b428e6d30[m
+Author: Leoneil <neilcuetz@gmail.com>
+Date:   Thu Nov 10 16:04:31 2016 +0800
+
+    Change in Models.py
+
+[33mcommit d8bbd848fb59de8fb2dd14747297c32a98da79b8[m
+Author: Leoneil <neilcuetz@gmail.com>
+Date:   Thu Nov 10 15:45:06 2016 +0800
+
+    READMECommit
+
+[33mcommit 8ed92caa68351ea8c804237f696ca804c6b5701a[m
+Author: Leoneil <neilcuetz@gmail.com>
+Date:   Thu Nov 10 15:39:46 2016 +0800
+
+    Initial Commit
